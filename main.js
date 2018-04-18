@@ -4,11 +4,11 @@ let config, vars, app, loops, gui;
 // eslint-disable-next-line prefer-const
 config = {
 	// the message you send to others when you hack them
-	message: "papa bless, it's everyday bro /r/javascript",
+	message: "Hehe yah whore",
 	autoTarget: true,
 	autoAttack: true,
 	// the base64 database url
-	db: "https://raw.githubusercontent.com/snollygolly/sourceio-automation/master/db.json",
+	db: "https://github.com/sampayzant1/.io/blob/master/main.js",
 	// all things timing related
 	freq: {
 		// how often to guess
